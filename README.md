@@ -1,5 +1,5 @@
 # open-pogoda
-## Хайповый бот для погоды в телеграме
+## Хайповый бот для просмотра погоды в телеграме
 
 ```
 Usage:
@@ -10,4 +10,4 @@ Usage:
 5.Enjoy your weather
   ```
 
-### > zv zv zv oo zov
+### svo > zv zv zv oo zov
